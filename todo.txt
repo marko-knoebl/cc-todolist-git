@@ -1,3 +1,4 @@
-- learn Git
-- learn HTML
-- learn JS
+- [ ] learn Git
+- [ ] learn HTML
+- [ ] learn JS
+- [ ] learn Foo
