@@ -1,2 +1,3 @@
-- learn git
+- learn Git
+- learn HTML
 - learn JS
